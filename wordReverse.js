@@ -1,4 +1,4 @@
-const word = "tanvir"
+const word = "spell"
 let wordsBackward = ""
 
 for (let i = word.length - 1; i >= 0; i--){

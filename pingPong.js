@@ -1,4 +1,3 @@
-const number = [1,5,6,5,4,5,6,8,15,3,8,4]
 let result = []
 
 for(let i = 1; i <= 20; i++){
